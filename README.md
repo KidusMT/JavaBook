@@ -13,3 +13,4 @@ Everything(Something) about Java
        D
 
   - [Multiple Inheritance Ambiguity with Interface](https://stackoverflow.com/questions/29758213/multiple-inheritance-ambiguity-with-interface)
+  - [Another solution from stackoverflow](https://stackoverflow.com/a/16788295/6021740)
