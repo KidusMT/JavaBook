@@ -1,6 +1,10 @@
 # JavaBook ☕
 Everything(Something) about Java
 
+## Functional Programming in Java
+## The Stream API
+## Generics Programming
+
 ## Java 8
   - [About the Lambda FAQ](http://www.lambdafaq.org/)
   
