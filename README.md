@@ -32,9 +32,21 @@ Everything(Something) about Java
     - `Object::instanceMethodName`:
     - `Class::instanceMethodName`:
     - `Class::new`: 
-
+## Java 8 Interfaces
+  - `Default Methods` inside methods 🤔
+  - `Static Methods` inside methods 🤔
 ## Java 8
   - [About the Lambda FAQ](http://www.lambdafaq.org/)
+  - [Local Inner Classes](https://docs.oracle.com/javase/tutorial/java/javaOO/localclasses.html#local-classes-are-similar-to-inner-classes): is that even possible? 🤔
+  ```java
+   void display(){  
+     class Local{  
+         void msg(){System.out.println(data);}  
+     }  
+     Local l=new Local();  
+     l.msg();  
+   }  
+  ```
   
 ### Diamond Problem from stackoverflow
 
