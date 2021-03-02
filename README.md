@@ -19,12 +19,19 @@ Everything(Something) about Java
     return result;
   }
   ```
-  - `Type Erasures`
   - [Higher Order Function](http://tutorials.jenkov.com/java-functional-programming/index.html#higher-order-functions): function taking function as an argument and also can returning a function as well.
   - `Covariant`, `Invariant`, `Contravariant`
   - 
 ## The Stream API
 ## Generics Programming
+  - `Type Erasures`
+  - Parameterized method
+  - Raw Type
+  - [Types of Method References](https://www.journaldev.com/32466/java-method-reference) from [Oracle doc](https://docs.oracle.com/javase/tutorial/java/javaOO/methodreferences.html)
+    - `Class::StaticMethodName` : 
+    - `Object::instanceMethodName`:
+    - `Class::instanceMethodName`:
+    - `Class::new`: 
 
 ## Java 8
   - [About the Lambda FAQ](http://www.lambdafaq.org/)
