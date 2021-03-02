@@ -20,6 +20,8 @@ Everything(Something) about Java
   }
   ```
   - [Higher Order Function](http://tutorials.jenkov.com/java-functional-programming/index.html#higher-order-functions): function taking function as an argument and also can returning a function as well.
+  - [First Class Citizen](https://stackoverflow.com/a/33695408/6021740): That means that you can create an "instance" of a function, as have a variable reference that function instance. Java doesn't support first class citizen but the closest we have is with lambda expressions (assigning them to variables). 
+  - [First Class vs Higher order](https://stackoverflow.com/a/10141303/6021740)
   - `Covariant`, `Invariant`, `Contravariant`
   - 
 ## The Stream API
