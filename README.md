@@ -4,13 +4,13 @@ Everything(Something) about Java
 ## Functional Programming in Java
   - [Referential Transparency](https://www.sitepoint.com/what-is-referential-transparency/#referentialtransparencyinprogramming): any call to the program may be replaced with the corresponding return value without changing the result of the program (no side effects).
   
-  referential transparent method
+  below is referential transparent method
   ```java
   int add(int a, int b) {
     return a + b
   }
   ```
-  not, referential transparent method because replacing the method with the result will change the result of the program since the message will no longer be printed.
+  below is NOT, referential transparent method because replacing the method with the result will change the result of the program since the message will no longer be printed.
   
   ```java
   int add(int a, int b) {
