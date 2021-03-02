@@ -2,7 +2,7 @@
 Everything(Something) about Java
 
 ## Functional Programming in Java
-  - Referential Transparency: any call to the program may be replaced with the corresponding return value without changing the result of the program (no side effects).
+  - [Referential Transparency](https://www.sitepoint.com/what-is-referential-transparency/#referentialtransparencyinprogramming): any call to the program may be replaced with the corresponding return value without changing the result of the program (no side effects).
   
   referential transparent method
   ```java
@@ -19,7 +19,7 @@ Everything(Something) about Java
     return result;
   }
   ```
-  - Type Erasures
+  - `Type Erasures`
   - 
 ## The Stream API
 ## Generics Programming
