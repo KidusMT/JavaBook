@@ -25,7 +25,7 @@ Everything(Something) about Java
   - `Covariant`, `Invariant`, `Contravariant`
   - 
 ## The Stream API
-  - [Lambda streams](https://cr.openjdk.java.net/~briangoetz/lambda/sotc3.html)
+  - [State of the Lambda](https://cr.openjdk.java.net/~briangoetz/lambda/sotc3.html)
   
 ## Generics Programming
   - `Type Erasures`
