@@ -10,7 +10,7 @@ Everything(Something) about Java
     return a + b
   }
   ```
-  not, referential transparent method
+  not, referential transparent method because replacing the method with the result will change the result of the program since the message will no longer be printed.
   
   ```java
   int add(int a, int b) {
