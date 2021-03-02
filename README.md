@@ -35,8 +35,8 @@ Everything(Something) about Java
     - `Class::instanceMethodName`:
     - `Class::new`: 
 ## Java 8 Interfaces
-  - `Default Methods` inside methods 🤔
-  - `Static Methods` inside methods 🤔
+  - `Default Methods` inside methods 
+  - `Static Methods` inside methods 
 ## Java 8
   - [About the Lambda FAQ](http://www.lambdafaq.org/)
   - [Local Inner Classes](https://docs.oracle.com/javase/tutorial/java/javaOO/localclasses.html#local-classes-are-similar-to-inner-classes): is that even possible? 🤔 For [more examples](https://docs.oracle.com/javase/tutorial/displayCode.html?code=https://docs.oracle.com/javase/tutorial/java/javaOO/examples/LocalClassExample.java)
