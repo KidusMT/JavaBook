@@ -26,6 +26,8 @@ Everything(Something) about Java
   - 
 ## The Stream API
   - [State of the Lambda](https://cr.openjdk.java.net/~briangoetz/lambda/sotc3.html)
+
+  ![image](https://user-images.githubusercontent.com/18373774/109812904-4384a280-7bf2-11eb-8422-b26764825e4f.png)
   
 ## Generics Programming
   - [Type Erasures](https://stackoverflow.com/questions/313584/what-is-the-concept-of-erasure-in-generics-in-java/313591#313591)
@@ -65,6 +67,5 @@ Everything(Something) about Java
 
   - [Multiple Inheritance Ambiguity with Interface](https://stackoverflow.com/questions/29758213/multiple-inheritance-ambiguity-with-interface)
   - [Another solution from stackoverflow](https://stackoverflow.com/a/16788295/6021740)
-
 
 
