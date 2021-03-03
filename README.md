@@ -29,6 +29,9 @@ Everything(Something) about Java
   
 ## Generics Programming
   - `Type Erasures`
+  - [Best Resource](http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html) from Angelika Langer
+  - [Wildcards](https://stackoverflow.com/questions/12043874/java-generics-wildcard-capture-misunderstanding)
+  - [Java generics, objects and wildcards differences & clarifications](https://stackoverflow.com/q/34993626/6021740)
   - Parameterized method
   - Raw Type
   - [Types of Method References](https://www.journaldev.com/32466/java-method-reference) from [Oracle doc](https://docs.oracle.com/javase/tutorial/java/javaOO/methodreferences.html)
