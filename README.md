@@ -27,7 +27,8 @@ Everything(Something) about Java
 ## The Stream API
   - [State of the Lambda](https://cr.openjdk.java.net/~briangoetz/lambda/sotc3.html)
 
-  ![https://javapapers.com/java/java-stream-api/](https://user-images.githubusercontent.com/18373774/109812904-4384a280-7bf2-11eb-8422-b26764825e4f.png)
+  ![image](https://user-images.githubusercontent.com/18373774/109812904-4384a280-7bf2-11eb-8422-b26764825e4f.png)
+   *[javapapers] -> https://javapapers.com/java/java-stream-api/*
   
 ## Generics Programming
   - [Type Erasures](https://stackoverflow.com/questions/313584/what-is-the-concept-of-erasure-in-generics-in-java/313591#313591)
