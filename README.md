@@ -1,6 +1,9 @@
 # JavaBook ☕
 Everything(Something) about Java
 
+## Static Methods and Default methods in Interface (Java +8)
+  >> You cannot override the static method of the interface; you can just access them using the name of the interface. If you try to override a static method of an interface by defining a similar method in the implementing interface, it will be considered as another (static) method of the class.
+
 ## Functional Programming in Java
   - [Referential Transparency](https://www.sitepoint.com/what-is-referential-transparency/#referentialtransparencyinprogramming): any call to the program may be replaced with the corresponding return value without changing the result of the program (no side effects).
   
