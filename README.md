@@ -74,3 +74,10 @@
   - [Another solution from stackoverflow](https://stackoverflow.com/a/16788295/6021740)
 
 
+## Java Jigsaw
+  - [The primary objective of the Jigsaw project is to introduce the modularity concept to create a module in Java 9 and then applying the same to JDK.](https://www.tutorialspoint.com/what-is-project-jigsaw-in-java-9)
+  - Benefits of Jigsaw(Modularity)
+      - Strong Encapsulation
+      - Clear Dependecies
+      - Reliable
+
