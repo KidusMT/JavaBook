@@ -87,3 +87,34 @@
 
 ## Java Optional
   - [Gracefully handling NPE in java](https://www.geeksforgeeks.org/how-to-avoid-nullpointerexception-in-java-using-optional-class/)
+
+```java
+Optional.ofNullable(user);//Optional of Nullable value
+
+Optional.of(notNullUserList);// Optional of Not Null value
+
+return Optional.empty();// Empty Optional
+
+// Consume if it is not Null
+Optional<Address> optAddress = user.getAddress();
+optAddress.ifPresent(System.out::println);
+
+// Check if it is Not Null
+Address address;
+if(optAddress.isPresent){
+    address = optAddress.get();
+}
+
+// Get if Object is Not Null, else return default
+Address defaultAddress = new Address (....);
+Optional<Address> optAddress = user.getAddress();
+Address address = optAddress.orElse(defaultAddress);
+
+// Get if Object is Not Null, else Throw Exception
+Optional<Address> optAddress = user.getAddress();
+Address address = optAddress.orElseThrow(UserNotFoundException::new)
+
+// Get Value
+Optional<Address> optAddress = user.getAddress();
+Address address = optAddress.get();
+``
