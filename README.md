@@ -128,4 +128,9 @@ Address address = optAddress.orElseThrow(UserNotFoundException::new)
 // Get Value
 Optional<Address> optAddress = user.getAddress();
 Address address = optAddress.get();
-``
+```
+
+## Important Notes
+  - `Yield` vs `Return`
+  ![image](https://user-images.githubusercontent.com/18373774/110291244-53650380-7fb1-11eb-88e8-4d97bfcd168a.png)
+
