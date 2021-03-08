@@ -3,7 +3,7 @@
 
 ## Java Certifications
   - [Oracle Java Explorer](https://learn.oracle.com/ols/learning-path/java-explorer/40805/79726)
-  - 
+  - [Pluralsight IQ Skill Test for Java](https://www.pluralsight.com/role-iq/java-developer)
 
 
 ## Static Methods and Default methods in Interface (Java +8)
