@@ -31,7 +31,13 @@
   - [First Class Citizen](https://stackoverflow.com/a/33695408/6021740): That means that you can create an "instance" of a function, as have a variable reference that function instance. Java doesn't support first class citizen but the closest we have is with lambda expressions (assigning them to variables). 
   - [First Class vs Higher order](https://stackoverflow.com/a/10141303/6021740)
   - `Covariant`, `Invariant`, `Contravariant`
-  - 
+  - [Functional Interfaces](https://docs.oracle.com/javase/8/docs/api/java/util/function/package-summary.html)
+       - `Consumer`
+       - `Supplier`
+       - `Predicate`
+       - `Function`
+
+
 ## The Stream API
   - [State of the Lambda](https://cr.openjdk.java.net/~briangoetz/lambda/sotc3.html)
 
