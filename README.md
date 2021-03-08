@@ -1,6 +1,11 @@
 # JavaBook ☕
 
 
+## Java Certifications
+  - [Oracle Java Explorer](https://learn.oracle.com/ols/learning-path/java-explorer/40805/79726)
+  - 
+
+
 ## Static Methods and Default methods in Interface (Java +8)
   > You cannot override the static method of the interface; you can just access them using the name of the interface. If you try to override a static method of an interface by defining a similar method in the implementing interface, it will be considered as another (static) method of the class.
 
