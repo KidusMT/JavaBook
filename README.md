@@ -32,10 +32,10 @@
   - [First Class vs Higher order](https://stackoverflow.com/a/10141303/6021740)
   - `Covariant`, `Invariant`, `Contravariant`
   - [Functional Interfaces](https://docs.oracle.com/javase/8/docs/api/java/util/function/package-summary.html)
-       - `Consumer`
-       - `Supplier`
-       - `Predicate`
-       - `Function`
+       - `Consumer`: 	accept(T t), andThen(Consumer<? super T> after)
+       - `Supplier`: 	get()
+       - `Predicate`:  test(T t), and(Predicate<? super T> other), isEqual(Object targetRef), negate(), or(Predicate<? super T> other)
+       - `Function`: 	apply(T t), identity(), compose(Function<? super V,? extends T> before), andThen(Function<? super R,? extends V> after)
 
 
 ## The Stream API
