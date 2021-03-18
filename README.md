@@ -134,3 +134,6 @@ Address address = optAddress.get();
   - `Yield` vs `Return`: from [stackoverflow](https://stackoverflow.com/questions/58049131/what-does-the-new-keyword-yield-mean-in-java-13) : was included in Java 13 
   ![image](https://user-images.githubusercontent.com/18373774/110291244-53650380-7fb1-11eb-88e8-4d97bfcd168a.png)
 
+
+## Java Notes:
+  - [A method declared with the final keyword, then it is known as the final method. The final method can't be overridden. A final method declared in the Parent class cannot be overridden by a child class](https://javagoal.com/can-we-override-the-final-method-in-java/#:~:text=A%20method%20declared%20with%20the,overridden%20by%20a%20child%20class.)
