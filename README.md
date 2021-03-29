@@ -137,3 +137,26 @@ Address address = optAddress.get();
 
 ## Java Notes:
   - [A method declared with the final keyword, then it is known as the final method. The final method can't be overridden. A final method declared in the Parent class cannot be overridden by a child class](https://javagoal.com/can-we-override-the-final-method-in-java/#:~:text=A%20method%20declared%20with%20the,overridden%20by%20a%20child%20class.)
+
+
+## Order of Execution in Java
+
+
+![image](https://user-images.githubusercontent.com/18373774/112776355-15358f80-9005-11eb-9946-e66538f00dbf.png)
+
+
+```java
+// static blocks
+static int a;
+static {
+   a = 5;
+   System.out.println("this is a static block");
+}
+
+// instance initialization block
+int a;
+{
+    a = 5;
+    System.out.println("this is instance initialization block");
+}
+```
