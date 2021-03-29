@@ -148,6 +148,7 @@ Address address = optAddress.get();
 ```java
 // static blocks
 static int a;
+
 static {
    a = 5;
    System.out.println("this is a static block");
@@ -155,6 +156,7 @@ static {
 
 // instance initialization block
 int a;
+
 {
     a = 5;
     System.out.println("this is instance initialization block");
