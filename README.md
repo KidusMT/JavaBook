@@ -164,7 +164,7 @@ int a;
 ```
 
 # Random Topics
-  - [Marker/Tagging Interfaces](https://www.baeldung.com/java-marker-interfaces)
+  - [Marker/Tagging Interfaces](https://www.baeldung.com/java-marker-interfaces): provides `run-time type` information about objects
 ```java
 public interface FlyBehaviour{
    // no method in here - empty
