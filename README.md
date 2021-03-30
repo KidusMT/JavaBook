@@ -162,3 +162,12 @@ int a;
     System.out.println("this is instance initialization block");
 }
 ```
+
+# Random Topics
+  - [Marker/Tagging Interfaces](https://www.baeldung.com/java-marker-interfaces)
+```java
+public interface FlyBehaviour{
+   // no method in here - empty
+}
+```
+   
