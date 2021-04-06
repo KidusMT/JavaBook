@@ -202,7 +202,12 @@ public class Solution {
 - [Final Static Methods](http://www.instanceofjava.com/2016/08/final-static-method-in-java-example.html)
 ![image](https://user-images.githubusercontent.com/18373774/113775116-da5ee600-96ed-11eb-942a-0e70004fc686.png)
 
-### [Java Memory](http://net-informations.com/faq/general/valuetype-referencetype.htm#:~:text=A%20Value%20Type%20holds%20the,are%20stored%20in%20the%20stack.)
+### [Value Type vs Reference Type](http://net-informations.com/faq/general/valuetype-referencetype.htm#:~:text=A%20Value%20Type%20holds%20the,are%20stored%20in%20the%20stack.)
 
 ![image](https://user-images.githubusercontent.com/18373774/113783905-19933400-96fa-11eb-8aa0-e287f1216729.png)
 
+- assing by Value vs. by Reference Visual Explanation](https://blog.penjee.com/passing-by-value-vs-by-reference-java-graphical/)
+
+![image](https://blog.penjee.com/wp-content/uploads/2015/02/pass-by-reference-vs-pass-by-value-animation.gif)
+
+- [Primitive and reference variables](https://java-programming.mooc.fi/part-5/3-primitive-and-reference-variables)
