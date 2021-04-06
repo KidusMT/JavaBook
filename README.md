@@ -211,3 +211,13 @@ public class Solution {
 ![image](https://blog.penjee.com/wp-content/uploads/2015/02/pass-by-reference-vs-pass-by-value-animation.gif)
 
 - [Primitive and reference variables](https://java-programming.mooc.fi/part-5/3-primitive-and-reference-variables)
+
+
+## Method Overriding vs Method Hidding 
+- [From scientecheasy](https://www.scientecheasy.com/2020/08/method-hiding-in-java.html/)
+
+![image](https://user-images.githubusercontent.com/18373774/113787592-eb652280-9700-11eb-8772-fe806a05bd6a.png)
+
+- [stackoverflow](https://stackoverflow.com/a/10292034/6021740)
+
+
