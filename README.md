@@ -198,6 +198,7 @@ public class Solution {
 ## Final Keyword
 
 - [Final vs Effectively Final](https://www.baeldung.com/java-effectively-final#:~:text=In%20simple%20terms%2C%20objects%20or,state%20of%20the%20referenced%20object.): An effectively final variable is a variable whose value is never changed, but it isn't declared with the final keyword. 
+- [stackoverflow](https://stackoverflow.com/a/4732617/6021740)
 - [blank final](https://www.geeksforgeeks.org/blank-final-in-java/) : A blank final variable in Java is a final variable that is not initialized during declaration. Below is a simple example of blank final. `NOTE: Values must be assigned in constructor`, not elsewhere.
 - [Final Static Methods](http://www.instanceofjava.com/2016/08/final-static-method-in-java-example.html)
 ![image](https://user-images.githubusercontent.com/18373774/113775116-da5ee600-96ed-11eb-942a-0e70004fc686.png)
