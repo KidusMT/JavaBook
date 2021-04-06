@@ -201,7 +201,8 @@ public class Solution {
 - [stackoverflow](https://stackoverflow.com/a/4732617/6021740)
 - [blank final](https://www.geeksforgeeks.org/blank-final-in-java/) : A blank final variable in Java is a final variable that is not initialized during declaration. Below is a simple example of blank final. `NOTE: Values must be assigned in constructor`, not elsewhere.
 - [Final Static Methods](http://www.instanceofjava.com/2016/08/final-static-method-in-java-example.html)
-![image](https://user-images.githubusercontent.com/18373774/113775116-da5ee600-96ed-11eb-942a-0e70004fc686.png)
+![image](https://user-images.githubusercontent.com/18373774/113789293-7a276e80-9704-11eb-9633-2ff4f2b2af45.png)
+
 
 ### [Value Type vs Reference Type](http://net-informations.com/faq/general/valuetype-referencetype.htm#:~:text=A%20Value%20Type%20holds%20the,are%20stored%20in%20the%20stack.)
 
