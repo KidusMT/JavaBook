@@ -206,7 +206,7 @@ public class Solution {
 
 ![image](https://user-images.githubusercontent.com/18373774/113783905-19933400-96fa-11eb-8aa0-e287f1216729.png)
 
-- assing by Value vs. by Reference Visual Explanation](https://blog.penjee.com/passing-by-value-vs-by-reference-java-graphical/)
+- [Passing by Value vs. by Reference Visual Explanation](https://blog.penjee.com/passing-by-value-vs-by-reference-java-graphical/)
 
 ![image](https://blog.penjee.com/wp-content/uploads/2015/02/pass-by-reference-vs-pass-by-value-animation.gif)
 
