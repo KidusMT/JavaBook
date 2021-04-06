@@ -219,5 +219,6 @@ public class Solution {
 ![image](https://user-images.githubusercontent.com/18373774/113787592-eb652280-9700-11eb-8772-fe806a05bd6a.png)
 
 - [stackoverflow](https://stackoverflow.com/a/10292034/6021740)
+- [oracle - about classes and everything](https://docs.oracle.com/javase/specs/jls/se8/html/jls-8.html#jls-8.4.3.2)
 
 
