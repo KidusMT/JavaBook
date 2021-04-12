@@ -225,4 +225,7 @@ public class Solution {
 - [stackoverflow](https://stackoverflow.com/a/10292034/6021740)
 - [oracle - about classes and everything](https://docs.oracle.com/javase/specs/jls/se8/html/jls-8.html#jls-8.4.3.2)
 
-
+## Java Monands
+- [haskell](http://learnyouahaskell.com/a-fistful-of-monads#monad-laws)
+- [youtube](https://www.youtube.com/watch?v=vePeILeSv4E)
+- [gitst](https://gist.github.com/ms-tg/7420496#file-jdk8_optional_monad_laws-java)
