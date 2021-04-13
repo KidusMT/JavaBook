@@ -229,3 +229,8 @@ public class Solution {
 - [haskell](http://learnyouahaskell.com/a-fistful-of-monads#monad-laws)
 - [youtube](https://www.youtube.com/watch?v=vePeILeSv4E)
 - [gitst](https://gist.github.com/ms-tg/7420496#file-jdk8_optional_monad_laws-java)
+
+## Comparator vs Comparable
+- [GeeksForGeeks](https://www.geeksforgeeks.org/comparable-vs-comparator-in-java/)
+> Unlike Comparable, Comparator is external to the element type we are comparing. It’s a separate class. We create multiple separate classes (that implement Comparator) to compare by different members.
+- [Baeldung](https://www.baeldung.com/java-comparator-comparable)
