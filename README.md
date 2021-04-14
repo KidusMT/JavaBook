@@ -98,6 +98,7 @@
     - not defined inside the right handside of the lambda expression 
     - [1. from stackoverflow](https://stackoverflow.com/a/43847137/6021740) 
     - [2. from stackoverflow](https://stackoverflow.com/a/25055561/6021740)
+   
   for example: `text` and `count` are free variables
 ```java
 public static void repeatMessage(String text, int count) {
