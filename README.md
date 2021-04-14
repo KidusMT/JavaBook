@@ -32,6 +32,25 @@
   - [First Class vs Higher order](https://stackoverflow.com/a/10141303/6021740)
   - `Covariant`, `Invariant`, `Contravariant`
   - [Functional Interfaces](https://docs.oracle.com/javase/8/docs/api/java/util/function/package-summary.html) (a.k.a [Single Abstract Method Interfaces or SAM Interfaces](https://www.javatpoint.com/java-8-functional-interfaces): `It can have any number of **default**, **static** methods but can contain **only one abstract method**. It can also declare methods of **object class**.`
+
+      ```java
+          @FunctionalInterface
+          public interface MyFunctionalInterface {
+
+              public abstract void execute();
+
+              @Override
+              String toString();
+
+              default void beforeTask() {
+                  System.out.println("beforeTask... ");
+              }
+
+              default void afterTask() {
+                  System.out.println("afterTask... ");
+              }
+          }
+      ```
        - `Consumer`: 	accept(T t), andThen(Consumer<? super T> after)
        - `Supplier`: 	get()
        - `Predicate`:  test(T t), and(Predicate<? super T> other), isEqual(Object targetRef), negate(), or(Predicate<? super T> other)
