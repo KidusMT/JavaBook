@@ -92,7 +92,23 @@
      l.msg();  
    }  
   ```
-  
+  - [Free Variables](https://www.informit.com/articles/article.aspx?p=2303960&seqNum=7)
+    - not parameters inside lambda
+    - not defined inside the block of code
+    - not defined inside the right handside of the lambda expression 
+    - [1. from stackoverflow](https://stackoverflow.com/a/43847137/6021740) 
+    - [2. from stackoverflow](https://stackoverflow.com/a/25055561/6021740)
+  for example: `text` and `count` are free variables
+```java
+public static void repeatMessage(String text, int count) {
+    Runnable r = () -> {
+        for (int i = 0; i < count; i++) {
+            System.out.println(text);
+        }
+    };
+    new Thread(r).start();
+}
+```
 ### Diamond Problem from stackoverflow
 
        A
@@ -253,3 +269,5 @@ public class Solution {
 - [GeeksForGeeks](https://www.geeksforgeeks.org/comparable-vs-comparator-in-java/)
 > Unlike Comparable, Comparator is external to the element type we are comparing. It’s a separate class. We create multiple separate classes (that implement Comparator) to compare by different members.
 - [Baeldung](https://www.baeldung.com/java-comparator-comparable)
+
+
