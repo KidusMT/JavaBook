@@ -8,6 +8,32 @@
 
 ## Static Methods and Default methods in Interface (Java +8)
   > You cannot override the static method of the interface; you can just access them using the name of the interface. If you try to override a static method of an interface by defining a similar method in the implementing interface, it will be considered as another (static) method of the class (a.k.a method-hiding).
+  > 
+  - Default vs static method conflict from parent interfaces, which one wins? 
+  ```java
+  public interface Sup1 {
+    static int myMethod() {
+      return 1;
+    }
+  }
+  public interface Sup2 {
+      default int myMethod() {
+          return 2;
+      }
+  }
+  // when we implement both interfaces in the same class then the default method wins
+  public class Impl implements Sup1, Sup2 {
+
+    public static void main(String[] args) {
+      Impl s = new Impl();
+      int val = s.myMethod();
+      System.out.println(val);
+    }
+  }
+  
+  //prints
+  >> 2
+  ```
 
 ## Functional Programming in Java
   - [Referential Transparency](https://www.sitepoint.com/what-is-referential-transparency/#referentialtransparencyinprogramming): any call to the program may be replaced with the corresponding return value without changing the result of the program (no side effects).
