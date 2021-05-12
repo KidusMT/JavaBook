@@ -297,4 +297,4 @@ public class Solution {
 > Unlike Comparable, Comparator is external to the element type we are comparing. It’s a separate class. We create multiple separate classes (that implement Comparator) to compare by different members.
 - [Baeldung](https://www.baeldung.com/java-comparator-comparable)
 
-## [About Amazon Correto](https://aws.amazon.com/corretto/faqs/)
+## [About Amazon Corretto](https://aws.amazon.com/corretto/faqs/)
