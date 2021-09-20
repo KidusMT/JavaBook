@@ -298,3 +298,9 @@ public class Solution {
 - [Baeldung](https://www.baeldung.com/java-comparator-comparable)
 
 ## [About Amazon Corretto](https://aws.amazon.com/corretto/faqs/)
+
+## Iterable to Collections
+```java
+ArrayList<E> list = new ArrayList<>();
+iterable.forEach(list::add);
+```
