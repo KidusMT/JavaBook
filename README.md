@@ -304,3 +304,5 @@ public class Solution {
 ArrayList<E> list = new ArrayList<>();
 iterable.forEach(list::add);
 ```
+
+- [LinkedList vs ArrayList](https://stackabuse.com/difference-between-arraylist-and-linkedlist-in-java-code-and-performance/)
